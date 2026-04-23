@@ -7,6 +7,16 @@ This repo contains the **PureCut Pro** React frontend (Vite + TypeScript + Tailw
 - Object Remover
 - Image Upscaler
 
+
+---
+
+## Contributors
+
+* **[Dhruv Gupta]** ([@dhruvvv07](https://github.com/dhruvvv07))
+* **[Prateek Reddy]** ([@PrateekReddy116](https://github.com/PrateekReddy116))
+
+---
+
 ---
 
 ## 1. Prerequisites
